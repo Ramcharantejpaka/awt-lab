@@ -1,7 +1,12 @@
-class student{
-    constructor(name,age){
-        this.name = "ram";
-        this.age = 22;
-    }
+const Person = {
+    name : "ram",
+    id : 1232,
+    address : {
+        country: "India",
+        state : "Telangana",
+        district : "Warangal",
+        pin : 506005,
+    },
 }
+
 

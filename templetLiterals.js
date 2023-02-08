@@ -1,13 +1,13 @@
-let productName = "laptop"
-let quanitity = "2"
+let productName = "laptop";
+let quanitity = 2; bbb                                                                                                                                                                                                             
 
 function estimatedDel(){
-    return "10/02/2023"
+    return "10/02/2023";
 }
 
 description1 = "i have ordered "+quanitity+" "+productName+"(s) from \"amazon\", the estimated delivery is on "+estimatedDel()
 
 description2 = `i have ordered ${quanitity} ${productName}s from "amazon", the estimated delivery is on ${estimatedDel()}`
 
-console.log(description1)
-console.log(description2)
+console.log(description1);
+console.log(description2);
