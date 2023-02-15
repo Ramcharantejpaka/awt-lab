@@ -16,9 +16,9 @@ function mydetails({fname,id,address:{country,state,district,pin}}){
 
 
 
-var fruits = ["apple","banana","mango","papaya"];
-const [a,b] = fruits
+var list = ["ram","apple","supra","jordans"];
+const [pname,fruit,car,shoe] = list
 
-console.log(a)  //apple
-console.log(b)  //banana
+console.log(pname)  //ram
+console.log(car)  //supra
 
