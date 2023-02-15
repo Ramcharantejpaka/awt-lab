@@ -11,9 +11,9 @@ const person = {
 mydetails(person);
 function mydetails({fname,id,address:{country,state,district,pin}}){
     const details = ""+fname+" "+id+" "+country+" "+pin;
-    console.log(details)    //ram 1232 India 506005
+    console.log(details)   
 }
-
+1//ram 1232 India 506005
 
 
 var list = ["ram","apple","supra","jordans"];
